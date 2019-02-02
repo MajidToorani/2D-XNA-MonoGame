@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>H:/SEMESTER3/GameProgramming/project/Advanced/MTooranisamaFinalProject/MTooranisamaFinalProject/Content/Fonts/defaultFont1.spritefont</File>
+    <File>H:/SEMESTER3/GameProgramming/project/Advanced/MTooranisamaFinalProject/MTooranisamaFinalProject/Content/Fonts/defaultFont2.spritefont</File>
+    <File>H:/SEMESTER3/GameProgramming/project/Advanced/MTooranisamaFinalProject/MTooranisamaFinalProject/Content/Fonts/hilightfont.spritefont</File>
+    <File>H:/SEMESTER3/GameProgramming/project/Advanced/MTooranisamaFinalProject/MTooranisamaFinalProject/Content/Fonts/regularfont.spritefont</File>
+    <File>H:/SEMESTER3/GameProgramming/project/Advanced/MTooranisamaFinalProject/MTooranisamaFinalProject/Content/HUD/coin2.wav</File>
+    <File>H:/SEMESTER3/GameProgramming/project/Advanced/MTooranisamaFinalProject/MTooranisamaFinalProject/Content/HUD/DragonBite.wav</File>
+    <File>H:/SEMESTER3/GameProgramming/project/Advanced/MTooranisamaFinalProject/MTooranisamaFinalProject/Content/HUD/DragonLaughing.wav</File>
+    <File>H:/SEMESTER3/GameProgramming/project/Advanced/MTooranisamaFinalProject/MTooranisamaFinalProject/Content/HUD/DungeonTheme.mp3</File>
+    <File>H:/SEMESTER3/GameProgramming/project/Advanced/MTooranisamaFinalProject/MTooranisamaFinalProject/Content/HUD/Forest.mp3</File>
+    <File>H:/SEMESTER3/GameProgramming/project/Advanced/MTooranisamaFinalProject/MTooranisamaFinalProject/Content/HUD/interface6.wav</File>
+    <File>H:/SEMESTER3/GameProgramming/project/Advanced/MTooranisamaFinalProject/MTooranisamaFinalProject/Content/HUD/Powerup.wav</File>
+    <File>H:/SEMESTER3/GameProgramming/project/Advanced/MTooranisamaFinalProject/MTooranisamaFinalProject/Content/Images/about.png</File>
+    <File>H:/SEMESTER3/GameProgramming/project/Advanced/MTooranisamaFinalProject/MTooranisamaFinalProject/Content/Images/background.png</File>
+    <File>H:/SEMESTER3/GameProgramming/project/Advanced/MTooranisamaFinalProject/MTooranisamaFinalProject/Content/Images/background0.jpg</File>
+    <File>H:/SEMESTER3/GameProgramming/project/Advanced/MTooranisamaFinalProject/MTooranisamaFinalProject/Content/Images/bg_1 (z -1).png</File>
+    <File>H:/SEMESTER3/GameProgramming/project/Advanced/MTooranisamaFinalProject/MTooranisamaFinalProject/Content/Images/coin.png</File>
+    <File>H:/SEMESTER3/GameProgramming/project/Advanced/MTooranisamaFinalProject/MTooranisamaFinalProject/Content/Images/flying_dragon-red.png</File>
+    <File>H:/SEMESTER3/GameProgramming/project/Advanced/MTooranisamaFinalProject/MTooranisamaFinalProject/Content/Images/flying_twin_headed_dragon-blue.png</File>
+    <File>H:/SEMESTER3/GameProgramming/project/Advanced/MTooranisamaFinalProject/MTooranisamaFinalProject/Content/Images/help.png</File>
+    <File>H:/SEMESTER3/GameProgramming/project/Advanced/MTooranisamaFinalProject/MTooranisamaFinalProject/Content/Images/instruction.png</File>
+    <File>H:/SEMESTER3/GameProgramming/project/Advanced/MTooranisamaFinalProject/MTooranisamaFinalProject/Content/Images/playground.png</File>
+    <File>H:/SEMESTER3/GameProgramming/project/Advanced/MTooranisamaFinalProject/MTooranisamaFinalProject/Content/Images/Teddy_spritesheet.png</File>
+    <File>H:/SEMESTER3/GameProgramming/project/Advanced/MTooranisamaFinalProject/MTooranisamaFinalProject/Content/Images/wood.jpg</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
